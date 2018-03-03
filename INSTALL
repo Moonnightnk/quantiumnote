@@ -1,0 +1,9 @@
+Building Quantiumnote
+
+See doc/readme-qt.rst for instructions on building Quantiumnote-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Quantiumnote.
+
+See doc/build-*.txt for instructions on building quantiumnoted,
+the intended-for-services, no-graphical-interface, reference
+implementation of Quantiumnote.
